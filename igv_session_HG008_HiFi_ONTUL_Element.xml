@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="hg38" locus="chr9:22939850-22939890" version="8">
+    <Resources>
+        <Resource index="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/Element_AVITI_20240626/HG008-N-P_Element-LngInsert_19x_GRCh38-GIABv3.bam.bai" path="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/Element_AVITI_20240626/HG008-N-P_Element-LngInsert_19x_GRCh38-GIABv3.bam" type="bam"/>
+        <Resource index="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/UCSC_ONT-UL_20231207/HG008-T_GRCh38_GIABv3_ONT-UL-R10.4.1-dorado0.4.3_sup4.2.0_5mCG_5hmCG_54x_UCSC_20231031.bam.bai" path="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/UCSC_ONT-UL_20231207/HG008-T_GRCh38_GIABv3_ONT-UL-R10.4.1-dorado0.4.3_sup4.2.0_5mCG_5hmCG_54x_UCSC_20231031.bam" type="bam"/>
+        <Resource index="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/BCM_Revio_20240313/HG008-N-D_PacBio-HiFi-Revio_20240313_68x_GRCh38-GIABv3.bam.bai" path="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/BCM_Revio_20240313/HG008-N-D_PacBio-HiFi-Revio_20240313_68x_GRCh38-GIABv3.bam" type="bam"/>
+        <Resource index="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/BCM_Revio_20240313/HG008-T_PacBio-HiFi-Revio_20240313_106x_GRCh38-GIABv3.bam.bai" path="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/BCM_Revio_20240313/HG008-T_PacBio-HiFi-Revio_20240313_106x_GRCh38-GIABv3.bam" type="bam"/>
+        <Resource index="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/Element_AVITI_20240626/HG008-T_Element-LngInsert_31x_GRCh38-GIABv3.bam.bai" path="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/Element_AVITI_20240626/HG008-T_Element-LngInsert_31x_GRCh38-GIABv3.bam" type="bam"/>
+    </Resources>
+    <Panel height="994" name="Panel1726540076033" width="1289">
+        <Track attributeKey="HG008-N-D_PacBio-HiFi-Revio_20240313_68x_GRCh38-GIABv3.bam Coverage" autoScale="true" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" id="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/BCM_Revio_20240313/HG008-N-D_PacBio-HiFi-Revio_20240313_68x_GRCh38-GIABv3.bam_coverage" name="HG008-N-D_PacBio-HiFi-Revio_20240313_68x_GRCh38-GIABv3.bam Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="66.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="HG008-N-D_PacBio-HiFi-Revio_20240313_68x_GRCh38-GIABv3.bam Junctions" autoScale="false" clazz="org.broad.igv.sam.SpliceJunctionTrack" fontSize="10" groupByStrand="false" height="60" id="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/BCM_Revio_20240313/HG008-N-D_PacBio-HiFi-Revio_20240313_68x_GRCh38-GIABv3.bam_junctions" maxdepth="50" name="HG008-N-D_PacBio-HiFi-Revio_20240313_68x_GRCh38-GIABv3.bam Junctions" visible="false"/>
+        <Track attributeKey="HG008-N-D_PacBio-HiFi-Revio_20240313_68x_GRCh38-GIABv3.bam" clazz="org.broad.igv.sam.AlignmentTrack" color="185,185,185" displayMode="EXPANDED" experimentType="THIRD_GEN" fontSize="10" id="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/BCM_Revio_20240313/HG008-N-D_PacBio-HiFi-Revio_20240313_68x_GRCh38-GIABv3.bam" name="HG008-N-D_PacBio-HiFi-Revio_20240313_68x_GRCh38-GIABv3.bam" visible="true">
+            <RenderOptions/>
+        </Track>
+    </Panel>
+    <Panel height="1652" name="Panel1726540105908" width="1289">
+        <Track attributeKey="HG008-T_PacBio-HiFi-Revio_20240313_106x_GRCh38-GIABv3.bam Coverage" autoScale="true" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" id="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/BCM_Revio_20240313/HG008-T_PacBio-HiFi-Revio_20240313_106x_GRCh38-GIABv3.bam_coverage" name="HG008-T_PacBio-HiFi-Revio_20240313_106x_GRCh38-GIABv3.bam Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="113.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="HG008-T_PacBio-HiFi-Revio_20240313_106x_GRCh38-GIABv3.bam Junctions" autoScale="false" clazz="org.broad.igv.sam.SpliceJunctionTrack" fontSize="10" groupByStrand="false" height="60" id="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/BCM_Revio_20240313/HG008-T_PacBio-HiFi-Revio_20240313_106x_GRCh38-GIABv3.bam_junctions" maxdepth="50" name="HG008-T_PacBio-HiFi-Revio_20240313_106x_GRCh38-GIABv3.bam Junctions" visible="false"/>
+        <Track attributeKey="HG008-T_PacBio-HiFi-Revio_20240313_106x_GRCh38-GIABv3.bam" clazz="org.broad.igv.sam.AlignmentTrack" color="185,185,185" displayMode="EXPANDED" experimentType="THIRD_GEN" fontSize="10" id="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/BCM_Revio_20240313/HG008-T_PacBio-HiFi-Revio_20240313_106x_GRCh38-GIABv3.bam" name="HG008-T_PacBio-HiFi-Revio_20240313_106x_GRCh38-GIABv3.bam" visible="true">
+            <RenderOptions/>
+        </Track>
+    </Panel>
+    <Panel height="840" name="Panel1726540168027" width="1289">
+        <Track attributeKey="HG008-T_GRCh38_GIABv3_ONT-UL-R10.4.1-dorado0.4.3_sup4.2.0_5mCG_5hmCG_54x_UCSC_20231031.bam Coverage" autoScale="true" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" id="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/UCSC_ONT-UL_20231207/HG008-T_GRCh38_GIABv3_ONT-UL-R10.4.1-dorado0.4.3_sup4.2.0_5mCG_5hmCG_54x_UCSC_20231031.bam_coverage" name="HG008-T_GRCh38_GIABv3_ONT-UL-R10.4.1-dorado0.4.3_sup4.2.0_5mCG_5hmCG_54x_UCSC_20231031.bam Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="55.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="HG008-T_GRCh38_GIABv3_ONT-UL-R10.4.1-dorado0.4.3_sup4.2.0_5mCG_5hmCG_54x_UCSC_20231031.bam Junctions" autoScale="false" clazz="org.broad.igv.sam.SpliceJunctionTrack" fontSize="10" groupByStrand="false" height="60" id="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/UCSC_ONT-UL_20231207/HG008-T_GRCh38_GIABv3_ONT-UL-R10.4.1-dorado0.4.3_sup4.2.0_5mCG_5hmCG_54x_UCSC_20231031.bam_junctions" maxdepth="50" name="HG008-T_GRCh38_GIABv3_ONT-UL-R10.4.1-dorado0.4.3_sup4.2.0_5mCG_5hmCG_54x_UCSC_20231031.bam Junctions" visible="false"/>
+        <Track attributeKey="HG008-T_GRCh38_GIABv3_ONT-UL-R10.4.1-dorado0.4.3_sup4.2.0_5mCG_5hmCG_54x_UCSC_20231031.bam" clazz="org.broad.igv.sam.AlignmentTrack" color="185,185,185" displayMode="EXPANDED" experimentType="THIRD_GEN" fontSize="10" id="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/UCSC_ONT-UL_20231207/HG008-T_GRCh38_GIABv3_ONT-UL-R10.4.1-dorado0.4.3_sup4.2.0_5mCG_5hmCG_54x_UCSC_20231031.bam" name="HG008-T_GRCh38_GIABv3_ONT-UL-R10.4.1-dorado0.4.3_sup4.2.0_5mCG_5hmCG_54x_UCSC_20231031.bam" visible="true">
+            <RenderOptions/>
+        </Track>
+    </Panel>
+    <Panel height="490" name="Panel1726540305447" width="1289">
+        <Track attributeKey="HG008-N-P_Element-LngInsert_19x_GRCh38-GIABv3.bam Coverage" autoScale="true" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" id="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/Element_AVITI_20240626/HG008-N-P_Element-LngInsert_19x_GRCh38-GIABv3.bam_coverage" name="HG008-N-P_Element-LngInsert_19x_GRCh38-GIABv3.bam Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="30.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="HG008-N-P_Element-LngInsert_19x_GRCh38-GIABv3.bam Junctions" autoScale="false" clazz="org.broad.igv.sam.SpliceJunctionTrack" fontSize="10" groupByStrand="false" height="60" id="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/Element_AVITI_20240626/HG008-N-P_Element-LngInsert_19x_GRCh38-GIABv3.bam_junctions" maxdepth="50" name="HG008-N-P_Element-LngInsert_19x_GRCh38-GIABv3.bam Junctions" visible="false"/>
+        <Track attributeKey="HG008-N-P_Element-LngInsert_19x_GRCh38-GIABv3.bam" clazz="org.broad.igv.sam.AlignmentTrack" color="185,185,185" displayMode="EXPANDED" experimentType="OTHER" fontSize="10" id="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/Element_AVITI_20240626/HG008-N-P_Element-LngInsert_19x_GRCh38-GIABv3.bam" name="HG008-N-P_Element-LngInsert_19x_GRCh38-GIABv3.bam" visible="true">
+            <RenderOptions/>
+        </Track>
+    </Panel>
+    <Panel height="728" name="Panel1726540334274" width="1289">
+        <Track attributeKey="HG008-T_Element-LngInsert_31x_GRCh38-GIABv3.bam Coverage" autoScale="true" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" id="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/Element_AVITI_20240626/HG008-T_Element-LngInsert_31x_GRCh38-GIABv3.bam_coverage" name="HG008-T_Element-LngInsert_31x_GRCh38-GIABv3.bam Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="47.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="HG008-T_Element-LngInsert_31x_GRCh38-GIABv3.bam Junctions" autoScale="false" clazz="org.broad.igv.sam.SpliceJunctionTrack" fontSize="10" groupByStrand="false" height="60" id="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/Element_AVITI_20240626/HG008-T_Element-LngInsert_31x_GRCh38-GIABv3.bam_junctions" maxdepth="50" name="HG008-T_Element-LngInsert_31x_GRCh38-GIABv3.bam Junctions" visible="false"/>
+        <Track attributeKey="HG008-T_Element-LngInsert_31x_GRCh38-GIABv3.bam" clazz="org.broad.igv.sam.AlignmentTrack" color="185,185,185" displayMode="EXPANDED" experimentType="OTHER" fontSize="10" id="https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_somatic/HG008/Liss_lab/Element_AVITI_20240626/HG008-T_Element-LngInsert_31x_GRCh38-GIABv3.bam" name="HG008-T_Element-LngInsert_31x_GRCh38-GIABv3.bam" visible="true">
+            <RenderOptions/>
+        </Track>
+    </Panel>
+    <Panel height="54" name="FeaturePanel" width="1289">
+        <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" id="Reference sequence" name="Reference sequence" sequenceTranslationStrandValue="+" shouldShowTranslation="false" visible="true"/>
+        <Track attributeKey="Refseq Genes" clazz="org.broad.igv.track.FeatureTrack" colorScale="ContinuousColorScale;0.0;836.0;255,255,255;0,0,178" fontSize="10" groupByStrand="false" id="https://hgdownload.soe.ucsc.edu/goldenPath/hg38/database/ncbiRefSeq.txt.gz" name="Refseq Genes" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.007662835249042145,0.23116219667943805,0.4623243933588761,0.6934865900383141,0.7969348659003831,0.9323116219667944"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
